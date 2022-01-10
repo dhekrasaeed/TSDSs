@@ -1,14 +1,4 @@
 # TSDSs
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@dhekrasaeed
-MichaelSchimpke /
-SIS_ULMFiT
-Public
-
 Code
 Issues
 Pull requests
@@ -17,15 +7,6 @@ Projects
 Wiki
 Security
 
-    Insights
-
-SIS_ULMFiT/ReadME
-@MichaelSchimpke
-MichaelSchimpke Update ReadME
-Latest commit bd6d37a on Feb 8, 2019
-History
-1 contributor
-60 lines (38 sloc) 3.21 KB
 This repository creates a ULMFiT model (by Howard & Ruder 2018) for tweet datasets. In this ReadME file the code files and folder structure is shortly explained as well as the setup procedure for the right PyTorch and fastai version.
 
 Code Files:
